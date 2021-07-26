@@ -1,0 +1,58 @@
+Syncing notes with 'ChinaNet-56981' on Mon, 26 Jul 2021 13:38:16 UTC
+Resetting to sha1: 9f36436 (Setup syncing on 'ChinaNet-56981').
+Syncing for the first time. Backing up notes to 'press-notes-backup-1627306700382' branch.
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+Pulled upstream. Moved head from 9f36436 - Setup syncing on 'ChinaNet-56981' to 1cbd2c0 - Setup syncing on 'ChinaNet-56981'.
+
+Pulled changes (2):
+ • Add(path=README.md)
+ • Add(path=index.php)
+
+Processing commits from null to 1cbd2c0
+ • 12a355b - Initial commit
+ • 8befad8 - Update README.md
+ • 1e0396d - Update README.md
+ • 540d1a5 - Update README.md
+ • 7edca85 - Create index.php
+ • 686d9ea - Update index.php
+ • 870d831 - Update index.php
+ • 9d378a3 - Update README.md
+ • 2ec1e20 - Update README.md
+ • 1ff0942 - Update index.php
+ • 4087ec2 - 新增直接下载
+ • da526d6 - Update README.md
+ • 2476e3e - Update README.md
+ • b4b2651 - Update index.php
+ • d785961 - Update index.php
+ • c0e05b1 - 修复一处错误
+ • b37397d - Update README.md
+ • 1cbd2c0 - Setup syncing on 'ChinaNet-56981'
+
+Syncing changes (3)
+ • Add(path=.press/README.md)
+ • Add(path=README.md)
+   creating new note for README.md with id=c4cd7fc1-4d40-4f7f-b206-4920422ece73
+ • Add(path=index.php)
+
+Committing unsynced notes (2):
+ • welcome_to_press.md (id=e731d56f-8db6-4351-a05e-8df27d5086f0)
+   picking local copy and discarding remote (if any)
+ • markdown_guide.md (id=8f4192fd-38cf-4c15-8ac7-028d15fe5fc3)
+   picking local copy and discarding remote (if any)
+
+Processing commits from 90bc71a to 31a275f
+ • 90bc71a - Create new file name records
+ • 23a9764 - Update 'welcome_to_press.md'
+ • 31a275f - Update 'markdown_guide.md'
+
+Syncing changes (4)
+ • Add(path=.press/registers/markdown_guide.meta)
+ • Add(path=.press/registers/welcome_to_press.meta)
+ • Add(path=markdown_guide.md)
+   skipping markdown_guide.md (already saved)
+ • Add(path=welcome_to_press.md)
+   skipping welcome_to_press.md (already saved)
+
+Pushing changes
+Wrapping up sync (before push) on Mon, 26 Jul 2021 13:38:33 UTC
